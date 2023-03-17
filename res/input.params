@@ -1,0 +1,14 @@
+125000           nphotons
+1.748              xmax (cm)
+1.748              ymax (cm)
+1.748              zmax (cm)
+1.0             n1
+1.38              n2
+1068.         total_time (s)
+8350   loops (how many heat loops to do before redoing MCRT)
+120.        repetitionRate_1 (Hz, length of time between pulses or rest time)
+2.        power (W)
+400          energyPerPixel (mJ)
+500       ablatetemp (C)
+5         pulses to do
+tophat  pulsetype
